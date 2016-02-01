@@ -2,11 +2,11 @@
 
 CSS brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-css.svg)](https://travis-ci.org/alexgorbatchev/brush-css)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-css.svg)](https://travis-ci.org/syntaxhighlighter/brush-css)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-css
+    npm install @alexgorbatchev/brush-css
 
 ## Testing
 
