@@ -1,5 +1,5 @@
 {
-  "name": "brush-css",
+  "name": "@alexgorbatchev/brush-css",
   "version": "4.0.0",
   "description": "css brush module for SyntaxHighlighter.",
   "keywords": [
